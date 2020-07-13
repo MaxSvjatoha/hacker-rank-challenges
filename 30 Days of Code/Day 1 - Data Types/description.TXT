@@ -10,7 +10,8 @@ Use the  operator to perform the following operations:
 Print the sum of  plus your int variable on a new line.
 Print the sum of  plus your double variable to a scale of one decimal place on a new line.
 Concatenate  with the string you read as input and print the result on a new line.
-Note: If you are using a language that doesn't support using  for string concatenation (e.g.: C), you can just print one variable immediately following the other on the same line. The string provided in your editor must be printed first, immediately followed by the string you read as input.
+Note: If you are using a language that doesn't support using  for string concatenation (e.g.: C), you can just print one variable immediately following the other on the same line. 
+The string provided in your editor must be printed first, immediately followed by the string you read as input.
 
 Input Format
 
@@ -27,11 +28,13 @@ Sample Input
 12
 4.0
 is the best place to learn and practice coding!
+
 Sample Output
 
 16
 8.0
 HackerRank is the best place to learn and practice coding!
+
 Explanation
 
 When we sum the integers  and , we get the integer .
